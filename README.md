@@ -6,6 +6,20 @@ Python 3.10.13+
 Poetry for dependency management
 Excel files in `.xlsx` format
 
+## Install python 3.10 on windows
+
+1. **Download Python**:
+    * Go to the [Python Downloads](https://www.python.org/downloads/windows/) page.
+    * Click the "Latest Python 3 Release" link.
+    * Scroll down and select "Windows installer (64-bit)" under "Files"
+    * Download the executable installer and run it.
+2. **Install Python**:
+    * Make sure to check the box that says "Add Python 3.x to PATH" before clicking "Install Now."
+    * Click "Disable path length limit" if you see the option.
+3. **Verify Installation**:
+    * Open a command prompt and type `python --version`.
+    * You should see the version of Python you installed.
+
 ## Setup
 
 1. **Clone the repository** (or create a new directory for your project):
