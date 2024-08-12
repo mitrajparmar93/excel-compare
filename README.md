@@ -86,7 +86,7 @@ Excel files in `.xlsx` format
 By following these steps, you will have set up the project, installed all necessary dependencies, and run the project using the command line interface.
 
 2. **Edit the script**:
-   - Modify the `DIRECTORY` and `LOCAL_FILE` variables in `excel_comparison/compare.py` to point to the correct paths where your files are located.
+   - Modify the `DIRECTORY` and `LOCAL_FILE` variables in `excel_comparison/main.py` to point to the correct paths where your files are located.
 
 ## Usage
 
